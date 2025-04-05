@@ -17,8 +17,3 @@ If you want to constrcut the operational risk loss databse by youself, Please do
 3-2-Key fields extraction based on MLP-business line.py
 
 3-3-Key fields extraction based on MLP-losstype.py
-
-Note: Before you start, please prepare a raw news dataset like new_text_example.xlsx in this depot.For copyright reasons, we do not publish crawler codes.
-
-Please do not hesitate to contact me if you have any queries about this work.
-Email:changyanpeng19@mails.ucas.ac.cn
