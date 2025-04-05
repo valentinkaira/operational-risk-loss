@@ -6,7 +6,7 @@ Operational risk, following credit risk and market risk, has been regarded as th
 
 In response to this gap, our study proposes a novel data collection framework that combines text mining methods to establish and publish one of the largest and most comprehensive external databases of cross-institution operational risk in academia. This Public Chinese Operational Loss Database(P-COLD) comprises 3,723 operational risk events related to Chinese commercial banks spanning from 1990 to 2023. To provide a comprehensive description of these events, 17 fields, such as occurrence time, loss amount, and business line, are included. The characteristics of loss amount in this database, such as severity and frequency of events, align with the conclusions drawn from existing studies on operational risk data. We firmly believe that this database will facilitate operational risk capital calculations, event dependence analysis, textual analysis, and strengthening institutional internal controls within the banking sector.
 
-If you want to constrcut the operational risk loss databse by youself, Please download all files and run the codes in the following order:
+To constrcut the operational risk loss, run the codes in the following order:
 
 1-Operational Risk Events Selection.py
 
